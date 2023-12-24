@@ -2,10 +2,9 @@
 
 > An app to generate password as you wish.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+**Check it out [https://angular-password-generator-topaz.vercel.app/](https://angular-password-generator-topaz.vercel.app/) 👈.**
 
-> [!NOTE]
-> Check it out [https://angular-password-generator-topaz.vercel.app/](https://angular-password-generator-topaz.vercel.app/).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
 ## Development server
 
